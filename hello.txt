@@ -1,7 +1,5 @@
 hello
 
-abada
-
 upza
 
 line two
